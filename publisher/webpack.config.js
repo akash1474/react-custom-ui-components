@@ -5,7 +5,7 @@ module.exports = {
   entry: "./src/index.tsx",
   output: {
     path: path.resolve("build"),
-    filename: "index.jsx",
+    filename: "main.jsx",
     libraryTarget: "commonjs2",
   },
   module: {

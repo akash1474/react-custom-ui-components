@@ -1,6 +1,6 @@
-import Button from './Button/Button.tsx';
-import { DropDown, DropDownItem } from './DropDown/DropDown.tsx';
-import Calendar from './Calendar/Calendar.tsx';
-import IconButton from './IconButton/IconButton.tsx';
-import CircularProgress from './Progress/Circular/Circular.tsx';
+import Button from './Button/Button';
+import { DropDown, DropDownItem } from './DropDown/DropDown';
+import Calendar from './Calendar/Calendar';
+import IconButton from './IconButton/IconButton';
+import CircularProgress from './Progress/Circular/Circular';
 export { Button, DropDown, DropDownItem, Calendar, IconButton, CircularProgress };

@@ -1,5 +1,5 @@
 import * as React from 'react';
-import IconButton from '../IconButton/IconButton.tsx';
+import IconButton from '../IconButton/IconButton';
 import './Calendar.css';
 
 interface Props{
