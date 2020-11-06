@@ -103,6 +103,7 @@ const IconButton: React.FC<Props> = ({
 			"IconButton must have a 'label' property for using 'labelPosition'!!!!"
 		);
 	}
+	console.log(color);
 
 	const useStyles = createUseStyles({
 		iconButton__ripple: {
